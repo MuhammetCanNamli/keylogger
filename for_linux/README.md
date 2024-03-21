@@ -35,7 +35,7 @@ The "keymaps.txt" text document, in which the keycodes of the keys on the keyboa
 
 It enables the python file to be run thanks to the codes in the written BASH script. There is no need to run the python file separately, everything happens automatically after the BASH script is run.
 
-This project terminates itself if no terminal entry is made for 15 seconds.
+This project terminates itself if no terminal entry is made for 10 seconds.
 
 ## Data Transfer via SMTP
 This method is designed to connect to google mail servers based on the scenario that the sender is a GMAIL account. To connect to Google's SMTP server easily using "Application Defined Password Method":

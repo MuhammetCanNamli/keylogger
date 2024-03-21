@@ -13,12 +13,6 @@ Keyboard tracking software that runs on Windows operating systems.
 * A device with Windows operating system
 * An IDE that can compile C++
 
-### Installing
-
-```
-git clone https://github.com/MuhammetCanNamli/LiveHostScanner.git
-```
-
 ### Executing program
 
 * The program must be compiled using an IDE capable of compiling C++ and an .exe file must be created.
